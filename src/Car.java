@@ -2,6 +2,8 @@ public class Car {
     private double iloscPowietrza;
     private double iloscPaliwa;
     private String kolor;
+    private int rokProdukcji;
+
 
 
     public Car(double iloscPowietrza, double iloscPaliwa, String kolor) {
